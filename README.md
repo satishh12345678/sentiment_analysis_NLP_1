@@ -1,1 +1,1 @@
-# sentiment_analysis_NLP_1
+# SELF_PROJECT
